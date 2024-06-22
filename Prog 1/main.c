@@ -3,6 +3,11 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    char c = 89;
+
+   printf("%c\n", c);
+   printf("This is a stroke");
+   //This is a comment
+
     return 0;
 }
